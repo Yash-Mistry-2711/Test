@@ -1,4 +1,3 @@
 # Web-Dev
 
-https://github.com/Yash-Mistry-2711/Web-Dev
-Done by yash
+https://Yash-Mistry-2711.github.io/Web-Dev/bootstrap.html
